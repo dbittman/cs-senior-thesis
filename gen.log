@@ -1,0 +1,1182 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.9.1)  30 SEP 2015 23:51
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\nonstopmode \input{gen.sh}
+(./gen.sh
+! You can't use `macro parameter character #' in vertical mode.
+l.1 #
+     !/bin/sh
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 #!
+      /bin/sh
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ! in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 M
+     AX_X=$2
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no X in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.3 MAX_
+        X=$2
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+Missing character: There is no 2 in font nullfont!
+
+Overfull \hbox (38.15762pt too wide) in paragraph at lines 3--4
+[]$[] \OT1/cmr/m/n/10 =$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 i
+     f [ "$2" == "" ]; then
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no " in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 5--8
+[]
+ []
+
+
+Overfull \hbox (28.33334pt too wide) in paragraph at lines 5--8
+\OT1/cmr/m/n/10 2" ==
+ []
+
+
+Overfull \hbox (81.98756pt too wide) in paragraph at lines 5--8
+\OT1/cmr/m/n/10 ""]; \OML/cmm/m/it/10 thenMAX[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (19.41742pt too wide) in paragraph at lines 5--8
+\OT1/cmr/m/n/10 65\OML/cmm/m/it/10 fi$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 C
+     UTOFF=$(($1 / 100))
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.11 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (27.7778pt too wide) in paragraph at lines 9--11
+[]$\OT1/cmr/m/n/10 (($
+ []
+
+
+Overfull \hbox (46.55763pt too wide) in paragraph at lines 9--11
+\OML/cmm/m/it/10 CUTOFF$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 e
+      cho out: $1
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no : in font nullfont!
+! Missing { inserted.
+<to be read again> 
+                   $
+l.13 rm data_$
+              1.pdf 2>/dev/null
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.13 rm data_$
+              1.pdf 2>/dev/null
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.16 set output "data_
+                      $1.pdf"
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   $
+l.16 set output "data_$
+                       1.pdf"
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.16 set output "data_$
+                       1.pdf"
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no Q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no X in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.21 set xrange [2:$MAX_
+                        X]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.22 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 12--22
+[]
+ []
+
+
+Overfull \hbox (38.45728pt too wide) in paragraph at lines 12--22
+\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 rmdata[]$
+ []
+
+
+Overfull \hbox (0.5pt too wide) in paragraph at lines 12--22
+[]$
+ []
+
+
+Overfull \hbox (78.24571pt too wide) in paragraph at lines 12--22
+\OT1/cmr/m/n/10 1"\OML/cmm/m/it/10 setxrange\OT1/cmr/m/n/10 [2 :$$[]]$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.23 #
+       wf(x) = m*x + b
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 # w
+        f(x) = m*x + b
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no w in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no * in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no b in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 23--24
+[]
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.25 #
+       l1(x) = c + v * x
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 # l
+        1(x) = c + v * x
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no * in font nullfont!
+Missing character: There is no x in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.26 #
+       l2(x) = q + w * x ** r
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no * in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no * in font nullfont!
+Missing character: There is no * in font nullfont!
+Missing character: There is no r in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 25--27
+[]
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.28 #
+       c = 0.01
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 # c
+         = 0.01
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.29 #
+       q = 0.01
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no q in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.30 #
+       b = 0.01
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.31 #
+       w = m = r = v = 1
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no w in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 28--32
+[]
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.33 #
+       fit wf(x) "data/wf_$1" using 1:3 via m,b
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 # f
+        it wf(x) "data/wf_$1" using 1:3 via m,b
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no f in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.33 # fit wf(x) "data/wf_
+                          $1" using 1:3 via m,b
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   $
+l.33 # fit wf(x) "data/wf_$
+                           1" using 1:3 via m,b
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.33 # fit wf(x) "data/wf_$
+                           1" using 1:3 via m,b
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no b in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.34 #
+       fit [$CUTOFF:$MAX_X] l2(x) "data/lock_$1" using 1:3 via q,w,r
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no X in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.34 # fit [$CUTOFF:$MAX_
+                         X] l2(x) "data/lock_$1" using 1:3 via q,w,r
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   $
+l.34 # fit [$CUTOFF:$MAX_X] l2(x) "data/lock_$
+                                              1" using 1:3 via q,w,r
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.34 # fit [$CUTOFF:$MAX_X] l2(x) "data/lock_$
+                                              1" using 1:3 via q,w,r
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no r in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.35 #
+       fit [0:$CUTOFF] l1(x) "data/lock_$1" using 1:3 via c,v
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no : in font nullfont!
+! Missing { inserted.
+<to be read again> 
+                   $
+l.35 # fit [0:$CUTOFF] l1(x) "data/lock_$
+                                         1" using 1:3 via c,v
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.35 # fit [0:$CUTOFF] l1(x) "data/lock_$
+                                         1" using 1:3 via c,v
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no v in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 33--36
+[]
+ []
+
+
+Overfull \hbox (0.5pt too wide) in paragraph at lines 33--36
+[]$
+ []
+
+
+Overfull \hbox (131.61588pt too wide) in paragraph at lines 33--36
+\OML/cmm/m/it/10 CUTOFF \OT1/cmr/m/n/10 :$$[]]\OML/cmm/m/it/10 l\OT1/cmr/m/n/10
+ 2(\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )"\OML/cmm/m/it/10 data=lock[]$
+ []
+
+
+Overfull \hbox (118.45827pt too wide) in paragraph at lines 33--36
+\OML/cmm/m/it/10 CUTOFF\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 l\OT1/cmr/m/n/10 1(\OM
+L/cmm/m/it/10 x\OT1/cmr/m/n/10 )"\OML/cmm/m/it/10 data=lock[]$
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 s
+      et xtics add ("Cutoff" $CUTOFF)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no " in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.38 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 37--38
+[]
+ []
+
+
+Overfull \hbox (50.44653pt too wide) in paragraph at lines 37--38
+\OML/cmm/m/it/10 CUTOFF\OT1/cmr/m/n/10 )$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.39 #
+      plot "data/lock_$1" using 1:(\$3/\$1), "data/wf_$1" using 1:(\$3/\$1)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 #p
+       lot "data/lock_$1" using 1:(\$3/\$1), "data/wf_$1" using 1:(\$3/\$1)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.39 #plot "data/lock_
+                      $1" using 1:(\$3/\$1), "data/wf_$1" using 1:(\$3/\$1)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   $
+l.39 #plot "data/lock_$
+                       1" using 1:(\$3/\$1), "data/wf_$1" using 1:(\$3/\$1)
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.39 #plot "data/lock_$
+                       1" using 1:(\$3/\$1), "data/wf_$1" using 1:(\$3/\$1)
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no f in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.39 ...data/lock_$1" using 1:(\$3/\$1), "data/wf_
+                                                  $1" using 1:(\$3/\$1)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   $
+l.39 ...ata/lock_$1" using 1:(\$3/\$1), "data/wf_$
+                                                  1" using 1:(\$3/\$1)
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.39 ...ata/lock_$1" using 1:(\$3/\$1), "data/wf_$
+                                                  1" using 1:(\$3/\$1)
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.40 plot "data/lock_
+                     $1" using 1:3 title "Locked Queue", "data/wf_$1" using ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   $
+l.40 plot "data/lock_$
+                      1" using 1:3 title "Locked Queue", "data/wf_$1" using ...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.40 plot "data/lock_$
+                      1" using 1:3 title "Locked Queue", "data/wf_$1" using ...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no Q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no f in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.40 ... using 1:3 title "Locked Queue", "data/wf_
+                                                  $1" using 1:3 title "MPSCQ"
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   $
+l.40 ...using 1:3 title "Locked Queue", "data/wf_$
+                                                  1" using 1:3 title "MPSCQ"
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.40 ...using 1:3 title "Locked Queue", "data/wf_$
+                                                  1" using 1:3 title "MPSCQ"
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no Q in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no F in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 39--42
+[]
+ []
+
+
+Overfull \hbox (0.5pt too wide) in paragraph at lines 39--42
+[]$
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/10 $$
+ []
+
+
+Overfull \hbox (0.5pt too wide) in paragraph at lines 39--42
+[]$
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/10 $$
+ []
+
+
+Overfull \hbox (0.5pt too wide) in paragraph at lines 39--42
+[]$
+ []
+
+
+Overfull \hbox (0.5pt too wide) in paragraph at lines 39--42
+[]$
+ []
+
+)
+! Emergency stop.
+<*> \nonstopmode \input{gen.sh}
+                               
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 10 strings out of 493089
+ 166 string characters out of 6140695
+ 54199 words of memory out of 5000000
+ 3594 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 19i,2n,12p,118b,56s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Introduction}{6}
+\contentsline {subsection}{\numberline {1.1}C11 in SeaOS}{7}
+\contentsline {subsection}{\numberline {1.2}Wait-Free Data Structures}{8}
+\contentsline {section}{\numberline {2}C11 Atomics: \texttt {stdatomic.h}}{9}
+\contentsline {subsection}{\numberline {2.1}Memory Ordering}{10}
+\contentsline {section}{\numberline {3}Atomics in SeaOS}{14}
+\contentsline {subsection}{\numberline {3.1}Upgrading to C11 Atomics}{16}
+\contentsline {section}{\numberline {4}A Wait-Free Multi-Producer Single-Consumer Queue}{17}
+\contentsline {subsection}{\numberline {4.1}Implementation Details}{17}
+\contentsline {subsection}{\numberline {4.2}Testing Environment and Framework}{21}
+\contentsline {subsection}{\numberline {4.3}Performance Results}{21}
+\contentsline {section}{\numberline {5}Conclusion}{25}
+\contentsline {subsection}{\numberline {5.1}Future Work}{25}

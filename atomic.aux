@@ -1,0 +1,58 @@
+\relax 
+\providecommand{\transparent@use}[1]{}
+\citation{linuxsource}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{6}}
+\citation{iso-c11}
+\citation{linux-no-c11}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}C11 in SeaOS}{7}}
+\citation{herlihy1991wait}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Wait-Free Data Structures}{8}}
+\citation{david2004single}
+\citation{kogan2011wait}
+\citation{valois1994implementing}
+\@writefile{toc}{\contentsline {section}{\numberline {2}C11 Atomics: \texttt  {stdatomic.h}}{9}}
+\citation{atomicweapons}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Memory Ordering}{10}}
+\citation{iso-c11}
+\citation{c11atomics}
+\newlabel{sucks}{{1}{11}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {1}Example of how reordering can affect the result of execution.}{11}}
+\citation{iso-c11}
+\citation{atomicweapons}
+\newlabel{lst-acq-rel}{{2}{14}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {2}Example of relaxing atomics.}{14}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Atomics in SeaOS}{14}}
+\newlabel{lst-atomic-add}{{3}{15}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {3}Manually implemented atomic addition.}{15}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Upgrading to C11 Atomics}{16}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}A Wait-Free Multi-Producer Single-Consumer Queue}{17}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Implementation Details}{17}}
+\newlabel{lst-queue}{{4}{17}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4}Definition of queue structure.}{17}}
+\newlabel{lst-enqueue}{{5}{18}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {5}Implementation of \texttt  {enqueue} function, with memory orderings.}{18}}
+\newlabel{lst-dequeue}{{6}{19}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {6}Implementation of \texttt  {dequeue} function, with memory orderings.}{19}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Testing Environment and Framework}{21}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Performance Results}{21}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Average time to completion with varying number of threads for queue capacity 16.\relax }}{22}}
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{fig-16}{{1}{22}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Average time to completion with varying number of threads for queue capacity 3600.\relax }}{23}}
+\newlabel{fig-3600}{{2}{23}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Average time to completion with varying number of threads for queue capacity 8000.\relax }}{24}}
+\newlabel{fig-8000}{{3}{24}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Conclusion}{25}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Future Work}{25}}
+\bibdata{atomic}
+\bibcite{iso-c11}{{1}{}{{}}{{}}}
+\bibcite{linux-no-c11}{{2}{}{{}}{{}}}
+\bibcite{c11atomics}{{3}{}{{}}{{}}}
+\bibcite{david2004single}{{4}{}{{}}{{}}}
+\bibcite{herlihy1991wait}{{5}{}{{}}{{}}}
+\bibcite{kogan2011wait}{{6}{}{{}}{{}}}
+\bibcite{atomicweapons}{{7}{}{{}}{{}}}
+\bibcite{linuxsource}{{8}{}{{}}{{}}}
+\bibcite{valois1994implementing}{{9}{}{{}}{{}}}
+\bibstyle{plain}
+\providecommand\NAT@force@numbers{}\NAT@force@numbers

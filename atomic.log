@@ -1,0 +1,472 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.11.30)  18 APR 2016 20:30
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**\nonstopmode \input{atomic.tex}
+(./atomic.tex (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
+)
+(/usr/share/texmf-dist/tex/latex/svg/svg.sty
+Package: svg 2012/09/05 v1.0 SVG inclusion and extraction
+
+(/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+
+(/usr/share/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count87
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2015/09/17 v3.3-111 Customizing captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2015/09/20 v1.7-115 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen103
+\captionmargin@=\dimen104
+\captionwidth=\dimen105
+\caption@tempdima=\dimen106
+\caption@indent=\dimen107
+\caption@parindent=\dimen108
+\caption@hangindent=\dimen109
+)
+\c@ContinuedFloat=\count88
+)
+\c@KVtest=\count89
+\sf@farskip=\skip44
+\sf@captopadj=\dimen110
+\sf@capskip=\skip45
+\sf@nearskip=\skip46
+\c@subfigure=\count90
+\c@subfigure@save=\count91
+\c@lofdepth=\count92
+\c@subtable=\count93
+\c@subtable@save=\count94
+\c@lotdepth=\count95
+\sf@top=\skip47
+\sf@bottom=\skip48
+)
+(/usr/share/texmf-dist/tex/latex/import/import.sty
+Package: import 2009/03/23  v 5.1
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/share/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count96
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/transparent.sty
+Package: transparent 2007/01/08 v1.0 Transparency via pdfTeX's color stack (HO)
+
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+))
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+\SVG@out@width=\skip49
+\SVG@out@height=\skip50
+\c@svgfigure=\count97
+)
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count98
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+)
+(/usr/share/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count99
+\lst@gtempboxa=\box28
+\lst@token=\toks18
+\lst@length=\count100
+\lst@currlwidth=\dimen113
+\lst@column=\count101
+\lst@pos=\count102
+\lst@lostspace=\dimen114
+\lst@width=\dimen115
+\lst@newlines=\count103
+\lst@lineno=\count104
+\lst@maxwidth=\dimen116
+
+(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count105
+\lst@skipnumbers=\count106
+\lst@framebox=\box29
+)
+(/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count107
+)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count108
+\Gm@cntv=\count109
+\c@Gm@tempcnt=\count110
+\Gm@bindingoffset=\dimen117
+\Gm@wd@mp=\dimen118
+\Gm@odd@mp=\dimen119
+\Gm@even@mp=\dimen120
+\Gm@layoutwidth=\dimen121
+\Gm@layoutheight=\dimen122
+\Gm@layouthoffset=\dimen123
+\Gm@layoutvoffset=\dimen124
+\Gm@dimlist=\toks19
+)
+(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+) (./atomic.aux)
+\openout1 = `atomic.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen125
+\scratchbox=\box30
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen126
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count117
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=0.0pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=12.0pt
+* \footskip=18.06749pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 55.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+] [3
+
+] (./atomic.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 4.
+)
+\tf@toc=\write3
+\openout3 = `atomic.toc'.
+
+
+[4
+
+] (./atomic.lof)
+\tf@lof=\write4
+\openout4 = `atomic.lof'.
+
+ (./atomic.lol)
+\tf@lol=\write5
+\openout5 = `atomic.lol'.
+
+ [5
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 124.
+ [6
+
+] [7] [8]
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 196.
+ [9] [10]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 265.
+
+
+(/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 265.
+ [11]
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
+
+ []
+
+[12] [13] [14] [15]
+Overfull \hbox (11.89279pt too wide) in paragraph at lines 367--374
+\OT1/cmr/m/n/12 atom-ics sys-tem. First, all ref-er-ences to \OT1/cmtt/m/n/12 s
+ea/cpu/atomics.h \OT1/cmr/m/n/12 had to be changed to \OT1/cmtt/m/n/12 stdatomi
+c.h\OT1/cmr/m/n/12 .
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 380
+.
+(/usr/share/texmf/tex/latex/omscmtt.fd
+File: omscmtt.fd 
+)
+LaTeX Font Info:    Font shape `OMS/cmtt/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 380.
+
+Overfull \hbox (5.0506pt too wide) in paragraph at lines 388--388
+[]\OT1/cmr/bx/n/17.28 A Wait-Free Multi-Producer Single-Consumer Queue 
+ []
+
+[16] [17] [18] [19] [20] <data_16.pdf, id=80, 361.35pt x 216.81pt>
+File: data_16.pdf Graphic file (type pdf)
+
+<use data_16.pdf>
+Package pdftex.def Info: data_16.pdf used on input line 534.
+(pdftex.def)             Requested size: 483.69684pt x 290.21951pt.
+
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 534--535
+ [][] 
+ []
+
+[21] <data_3600.pdf, id=84, 361.35pt x 216.81pt>
+File: data_3600.pdf Graphic file (type pdf)
+ <use data_3600.pdf>
+Package pdftex.def Info: data_3600.pdf used on input line 547.
+(pdftex.def)             Requested size: 483.69684pt x 290.21951pt.
+
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 547--548
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22 <./data_16.pdf>] <data_8000.pdf, id=96, 361.35pt x 216.81pt>
+File: data_8000.pdf Graphic file (type pdf)
+
+<use data_8000.pdf>
+Package pdftex.def Info: data_8000.pdf used on input line 572.
+(pdftex.def)             Requested size: 483.69684pt x 290.21951pt.
+
+Overfull \hbox (13.94182pt too wide) in paragraph at lines 572--573
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23 <./data_3600.pdf>] [24 <./data_8000.pdf>] [25] [26] (./atomic.bbl) [27
+
+]
+(./atomic.aux) ) 
+Here is how much of TeX's memory you used:
+ 5980 strings out of 493054
+ 87918 string characters out of 6140585
+ 252700 words of memory out of 5000000
+ 9401 multiletter control sequences out of 15000+600000
+ 10467 words of font info for 39 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 69i,8n,98p,373b,1181s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/share/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></us
+r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><
+/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on atomic.pdf (27 pages, 253390 bytes).
+PDF statistics:
+ 182 PDF objects out of 1000 (max. 8388607)
+ 126 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+

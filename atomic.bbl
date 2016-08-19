@@ -1,0 +1,56 @@
+\begin{thebibliography}{1}
+
+\bibitem{iso-c11}
+C~Programming Language~Standards Committee.
+\newblock ``{ISO 9899: Programming languages - C}''.
+\newblock \url{http://www.open-std.org/jtc1/sc22/wg14/www/standards.html#9899},
+  {2011}.
+
+\bibitem{linux-no-c11}
+Jonathan Corbet.
+\newblock ``{C11 atomic variables and the kernel}''.
+\newblock \url{https://lwn.net/Articles/586838/}, 2014.
+
+\bibitem{c11atomics}
+cppreference.
+\newblock {``{Atomic operations library}''}.
+\newblock \url{http://en.cppreference.com/w/c/atomic}, {2015}.
+
+\bibitem{david2004single}
+Matei David.
+\newblock ``{A single-enqueuer wait-free queue implementation}''.
+\newblock In {\em Distributed Computing}, pages 132--143. Springer, 2004.
+
+\bibitem{herlihy1991wait}
+Maurice Herlihy.
+\newblock ``{Wait-free synchronization}''.
+\newblock {\em ACM Transactions on Programming Languages and Systems (TOPLAS)},
+  13(1):124--149, 1991.
+
+\bibitem{kogan2011wait}
+Alex Kogan and Erez Petrank.
+\newblock ``{Wait-free queues with multiple enqueuers and dequeuers}''.
+\newblock In {\em ACM SIGPLAN Notices}, volume~46, pages 223--234. ACM, 2011.
+
+\bibitem{atomicweapons}
+Herb Sutter.
+\newblock ``{Atomic\(<>\)} {Weapons}''.
+\newblock
+  \url{https://channel9.msdn.com/Shows/Going+Deep/Cpp-and-Beyond-2012-Herb-Sutter-atomic-Weapons-1-of-2},
+  2012.
+\newblock Talk on atomic operations and memory orderings in C and C++ [accessed
+  2015-08-15].
+
+\bibitem{linuxsource}
+Linus Torvalds.
+\newblock \textit{Linux Kernel Source Code}.
+\newblock \url{https://github.com/torvalds/linux/tree/v4.1}, 2015.
+\newblock Linux kernel source, version 4.1, git tree.
+
+\bibitem{valois1994implementing}
+John~D Valois.
+\newblock ``{Implementing lock-free queues}''.
+\newblock In {\em Proceedings of the seventh international conference on
+  Parallel and Distributed Computing Systems}, pages 64--69, 1994.
+
+\end{thebibliography}
